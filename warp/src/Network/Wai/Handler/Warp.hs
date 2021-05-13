@@ -93,7 +93,6 @@ module Network.Wai.Handler.Warp (
   , exceptionResponseForDebug
     -- * Data types
   , HostPreference
-  , Port
   , InvalidRequest (..)
     -- * Utilities
   , pauseTimeout
